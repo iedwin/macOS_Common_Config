@@ -7,8 +7,11 @@
 - 开启HiDPI
 - 配置macbook在外接显示器的时候关闭自带屏幕
 - 配置macbook可以安装App store外的软件
+- 关闭Spotlight索引
 - 安装macsfan(win10/macOS)
 - 配置Google chrome sync
-- 关闭Spotlight索引
+- 安装privoxy,lolcat,screenfetch
 - 美化iTerm2和配置Java,Scala,Go环境
-- [选]在macbook上安装Linux(Manjaro)
+- 在macbook上安装Linux(Manjaro)或win10单系统
+- 百度网盘的正确下载方式
+- 配置vim

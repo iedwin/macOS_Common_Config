@@ -47,4 +47,5 @@ ioreg -l | grep "DisplayProductID"
 ```
 #### 6. 把整个文件夹拷贝到/System/Library/Displays/Contents/Resources/Overrides/
 #### 7. [下载并安装RDM22](https://github.com/avibrazil/RDM)，重启后用RDM选择带闪电符号的HiDPI分辨率即可。
-![rdm](images/hidpi/rdm.png)
+
+<img src="images/hidpi/rdm.png" align=center width = 50% height = 50% />

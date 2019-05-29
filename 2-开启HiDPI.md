@@ -1,8 +1,8 @@
-### 开启HiDPI
+## 开启HiDPI
 
-#### [什么是HiDPI?](https://zhuanlan.zhihu.com/p/20684620)
-#### 由于macbook pro自带视网膜屏自带HiDPI，本章主要是外接显示器开启HiDPI的步骤。
-#### 步骤：
+### [什么是HiDPI?](https://zhuanlan.zhihu.com/p/20684620)
+### 由于macbook pro自带视网膜屏自带HiDPI，本章主要是外接显示器开启HiDPI的步骤。
+### 步骤：
 #### 1. 关闭SIP
 - 重启，按住⌘ + R 进入恢复界面
 - 左上角菜单里面找到终端，打开并输入
